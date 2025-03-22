@@ -17,4 +17,4 @@ finally:
       print('We cant divide by zero')
     finally:
       print('Thanks for using our Application')
-
+print('Thanks')
